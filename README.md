@@ -1,1 +1,3 @@
-# theodelite
+# Theodelite
+
+Creates plot from theodelite measurements.
