@@ -2,7 +2,13 @@
 
 Creates plot from theodelite measurements.
 
-![image](https://user-images.githubusercontent.com/76440151/182902323-e3c034f4-9496-4a27-bd3d-95a652d46838.png)
-![image](https://user-images.githubusercontent.com/76440151/182902396-07e8fe98-6bcc-4014-83bf-342222aac5d0.png)
-![image](https://user-images.githubusercontent.com/76440151/182902436-13b28d46-4d29-4657-9b0e-bd6a80f5011d.png)
-![image](https://user-images.githubusercontent.com/76440151/183113800-015a101d-660b-4e46-b31a-50870d38948f.png)
+## Data comparison
+![image](https://user-images.githubusercontent.com/76440151/183285072-af2b90d5-fc99-4177-bb72-403999746b96.png)
+![image](https://user-images.githubusercontent.com/76440151/183285014-f5b74e3c-61bf-4cdc-a6c8-ea6e049d9e99.png)
+![image](https://user-images.githubusercontent.com/76440151/183285019-25cf1c85-bee5-4d4e-9d58-05c872e76d48.png)
+![image](https://user-images.githubusercontent.com/76440151/183285031-13c65beb-cfe2-4798-915b-b562d36ef62c.png)
+
+## Reliability of tablet data
+![image](https://user-images.githubusercontent.com/76440151/183285044-d23ba2c1-7b38-473a-987f-36393cdc58c9.png)
+![image](https://user-images.githubusercontent.com/76440151/183285049-695abe48-c771-4896-b8fd-75951f35c9de.png)
+![image](https://user-images.githubusercontent.com/76440151/183285056-c82a2964-0cdd-476a-a605-1a78eba49c6b.png)
