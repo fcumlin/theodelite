@@ -1,6 +1,6 @@
 # Theodolite
 
-Creates plot from theodelite measurements.
+Creates plots from theodolite measurements.
 
 ## Data comparison
 ![image](https://user-images.githubusercontent.com/76440151/183285072-af2b90d5-fc99-4177-bb72-403999746b96.png)
@@ -11,4 +11,4 @@ Creates plot from theodelite measurements.
 ## Reliability of tablet data
 ![image](https://user-images.githubusercontent.com/76440151/183285044-d23ba2c1-7b38-473a-987f-36393cdc58c9.png)
 ![image](https://user-images.githubusercontent.com/76440151/183285049-695abe48-c771-4896-b8fd-75951f35c9de.png)
-![image](https://user-images.githubusercontent.com/76440151/183285056-c82a2964-0cdd-476a-a605-1a78eba49c6b.png)
+![image](https://user-images.githubusercontent.com/76440151/183285135-878367a8-ad0c-45e4-ad4f-d0e7e14923b0.png)
