@@ -3,7 +3,7 @@
 Creates plots from theodolite measurements.
 
 ## Data comparison
-![image](https://user-images.githubusercontent.com/76440151/183285072-af2b90d5-fc99-4177-bb72-403999746b96.png)
+[comment]: <> ![image](https://user-images.githubusercontent.com/76440151/183285072-af2b90d5-fc99-4177-bb72-403999746b96.png)
 ![image](https://user-images.githubusercontent.com/76440151/183285014-f5b74e3c-61bf-4cdc-a6c8-ea6e049d9e99.png)
 ![image](https://user-images.githubusercontent.com/76440151/183285019-25cf1c85-bee5-4d4e-9d58-05c872e76d48.png)
 ![image](https://user-images.githubusercontent.com/76440151/183285031-13c65beb-cfe2-4798-915b-b562d36ef62c.png)
